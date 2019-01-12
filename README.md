@@ -1,6 +1,6 @@
 # Project2_Clustering_Poker_Player_Styles
 
-Project part of the module INM433, Visual Analytics, City University, London.
+Project part of the module INM433, Visual Analytics, City University, London. Synthesis of a full report.
 
 # Motivation
 
